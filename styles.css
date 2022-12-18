@@ -1,0 +1,156 @@
+body{
+    font-family: 'Montserrat';
+}
+h3{
+    margin:5% 0%;
+    font-size: 1.5rem;
+}
+.butt{
+    margin:5% 3% 5% 0;
+}
+.carousel-item{
+    padding:7% 15%;
+}
+.container{
+    padding:3% 15%;
+}
+.center{
+    text-align:center;
+    width:100%;
+
+}
+.ficons{
+    margin:5px;
+}
+
+.features-row{
+    margin:10%;
+   
+}
+.features-paragraph{
+    color:#8f8f8f;
+ padding:0% 15%;
+}
+
+
+
+h1{
+    font-family: 'Montserrat-Black', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    color:#fff;
+}
+h2{
+    font-family: 'Montserrat-Bold', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+h3{
+    font-family: 'Montserrat-Bold', sans-serif;
+    
+}
+.h3footer{
+    font-family: 'Montserrat-Bold', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    color:#fff;
+    
+}
+.icon {
+    
+    color: #ef8172;
+   
+}
+.icon:hover{
+    color:#ff4c68;
+}
+.image-title{
+    width:20%;
+    transform:rotate(25deg);
+    margin-right:20%;
+    
+    position: absolute;
+  
+}
+
+.navbar{
+    padding-bottom: 4.5rem;
+}
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size:2.5rem ;
+    font-weight: bold;
+}
+.navbar-item{
+    padding:0px 18px;
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-family:'Montserrat-Light';
+}
+.press-logo{
+    margin:10px 20px;
+    width:20%;
+}
+.rowpricing{
+    margin:5% 15%;
+}
+
+.testimonials-logo{
+width:14%;
+border-radius:100%;
+margin:2%;
+}
+#cta{
+ padding:7% 15%;
+    background-color: #ff4c68;
+    text-align: center;
+}
+
+#features{
+    padding:10% 15%;
+    position:relative;
+    z-index: 1;
+    background-color: #fff;
+}
+#footer{
+    text-align: center;
+    padding:10% 10%;
+}
+#press{
+    text-align:center;
+    background-color: #ef8172;
+    padding-bottom:10%;
+   
+}
+#pricing{
+    text-align: center;
+}
+#testimonials{
+  
+    color:#fff;
+    background-color: #ef8172;
+    text-align: center;
+    
+
+}
+
+#title{
+    background-color: #ff4c68;
+    position: relative;
+}
+@media (max-width:991px) {
+    #title{
+        text-align: center;
+    }
+    
+    .image-title{
+        width:270px;
+        height:470px;
+        position: static;
+        transform: rotate(0);
+        
+
+    }
+}
+
